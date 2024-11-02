@@ -1,4 +1,4 @@
-# Máximo Decimo Meridio 🐐
+# 🅼🅰🆇🅸🅼🅾 🅴🆂🆃🆄🅳🅸🅻🅻🅾
 Mi nombre es Máximo Décimo Meridio, comandante de los ejércitos del norte, general de las legiones Félix, leal servidor del verdadero emperador, Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada, y alcanzaré mi venganza, en esta vida o en la otra. Tambien estudio Ingenieria en Sistemas de Información y aprendo Ciberseguridad por mi cuenta.
 
 
