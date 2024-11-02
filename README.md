@@ -1,5 +1,5 @@
 # Hi, I'm Estudillo Máximo 👋🐐
-⚡ Estudio ingeniería en sistemas y soy desarrollador Full Stack Java. También estoy interesado en la ciberseguridad y aprendo poco a poco sobre eso. ⚡
+⚡ Estudio Ing. en Sistemas de Información y también aprendo sobre Ciberseguridad por mi cuenta. ⚡
 
 
 ## 🌐 Socials:
