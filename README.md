@@ -1,7 +1,10 @@
 # 🄼🄰🅇🄸🄼🄾 🄴🅂🅃🅄🄳🄸🄻🄻🄾
-Mi nombre es Máximo Décimo Meridio, comandante de los ejércitos del norte, general de las legiones Félix, leal servidor del verdadero emperador, Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada, y alcanzaré mi venganza, en esta vida o en la otra. También estudio Ingenieria en Sistemas de Información y aprendo Ciberseguridad por mi cuenta.
+Hi! I'm Máximo Estudillo 👨‍💻  
+I'm a 4th-year student of Information Systems Engineering at UTN (Argentina), passionate about cybersecurity and backend development.  
+I enjoy building secure, efficient software solutions and learning new technologies.
 
-
+💡 I’m currently learning more about ethical hacking, cloud infrastructure, and DevOps practices.
+And.... Mi nombre es Máximo Décimo Meridio, comandante de los ejércitos del norte, general de las legiones Félix, leal servidor del verdadero emperador, Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada, y alcanzaré mi venganza, en esta vida o en la otra. También estudio Ingenieria en Sistemas de Información y aprendo Ciberseguridad por mi cuenta.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/homm55/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/maxiestu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxidoe24//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maxidoe2) 
 
