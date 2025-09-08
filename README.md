@@ -18,11 +18,6 @@ Check out some of my projects here 👉 [maxiestudev.web.app](https://maxiestude
 
 ---
 
-## ✨ Fun Fact
-*"My name is Máximo Décimo Meridio, commander of the Armies of the North, General of the Felix Legions, loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife… and I will have my vengeance, in this life or the next."*  
-
-Yes, I’m also a Systems Engineering student and self-taught cybersecurity enthusiast 😉.  
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxidoe24//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maxidoe2) 
 
