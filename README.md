@@ -21,7 +21,7 @@ Check out some of my projects here 👉 [maxiestudev.web.app](https://maxiestude
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxidoe24//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maxidoe2) 
 
-<br/>  
+![Profile views](https://komarev.com/ghpvc/?username=maxidoe2)
 
 # 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
