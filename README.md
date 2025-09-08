@@ -1,10 +1,28 @@
 # Hi! I'm Máximo Estudillo 👨‍💻  
-I'm a 4th-year student of Information Systems Engineering at UTN (Argentina), passionate about cybersecurity and backend development.  
-I enjoy building secure, efficient software solutions and learning new technologies.
 
-💡 I’m currently learning more about ethical hacking, cloud infrastructure, and DevOps practices.
+🎓 I'm a 4th-year student of Information Systems Engineering at **UTN (Argentina)**.  
+🔐 Passionate about **Cybersecurity**, **Fullstack development**, and building secure, efficient software solutions.  
+☁️ Currently learning more about **ethical hacking**, **React Native**, and **Testing QA**.  
 
-And.... Mi nombre es Máximo Décimo Meridio, comandante de los ejércitos del norte, general de las legiones Félix, leal servidor del verdadero emperador, Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada, y alcanzaré mi venganza, en esta vida o en la otra. También estudio Ingenieria en Sistemas de Información y aprendo Ciberseguridad por mi cuenta.
+---
+
+## 🚀 About Me
+- 💻 I enjoy creating projects that combine **functionality, security, and scalability**.  
+- 📚 Always curious, always learning — especially in cybersecurity and system administration.  
+- 🎮 Big fan of video games like **Gaplus (a.k.a Galaga)** and **Heroes of Might and Magic V**.  
+
+---
+
+## 🌐 Portfolio
+Check out some of my projects here 👉 [maxiestudev.web.app](https://maxiestudev.web.app)  
+
+---
+
+## ✨ Fun Fact
+*"My name is Máximo Décimo Meridio, commander of the Armies of the North, General of the Felix Legions, loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife… and I will have my vengeance, in this life or the next."*  
+
+Yes, I’m also a Systems Engineering student and self-taught cybersecurity enthusiast 😉.  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxidoe24//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maxidoe2) 
 
