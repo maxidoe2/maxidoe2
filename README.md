@@ -2,7 +2,7 @@
 
 🎓 I'm a 4th-year student of Information Systems Engineering at **UTN (Argentina)**.  
 🔐 Passionate about **Cybersecurity**, **Fullstack development**, and building secure, efficient software solutions.  
-☁️ Currently learning more about **ethical hacking**, **React Native**, and **Testing QA**.  
+☁️ Currently learning more about **ethical hacking**, **React Native**, **.NET**, **Go** and **Testing QA**.  
 
 ---
 
