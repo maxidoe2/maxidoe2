@@ -1,28 +1,35 @@
 name: generate-snake
 
 on:
-  # lo corre cada día a las 00:00 UTC
   schedule:
-    - cron: "0 0 * * *"
-  # te permite dispararlo manualmente desde la pestaña Actions
-  workflow_dispatch:
+    - cron: "0 0 * * *"      # todos los días 00:00 UTC
+  workflow_dispatch:          # ejecutarlo a mano
+  push:
+    branches: [ main ]        # opcional: también al pushear
+
+permissions:
+  contents: write             # necesario para crear/actualizar la rama output
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generar SVG de la serpiente
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: maxidoe2
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publicar en rama output (GitHub Pages-style)
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
+
