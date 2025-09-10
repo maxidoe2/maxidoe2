@@ -17,6 +17,9 @@
 Check out some of my projects here 👉 [maxiestudev.web.app](https://maxiestudev.web.app)  
 
 ---
+## 🐍 Mis contribuciones
+![Snake animation](https://github.com/maxidoe2/maxidoe2/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/maxidoe2/maxidoe2/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxidoe24//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maxidoe2) 
